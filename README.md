@@ -2,7 +2,9 @@
 <img src="https://DjyBrandon.github.io/static/brandon.png" align="center" height="" width="" />
 </div>  
 
-[![Security Status](https://www.murphysec.com/platform3/v31/badge/1702684712413822976.svg)](https://www.murphysec.com/console/report/1702684712376074240/1702684712413822976)
+<div align="center">
+  [![Security Status](https://www.murphysec.com/platform3/v31/badge/1702684712413822976.svg)](https://www.murphysec.com/console/report/1702684712376074240/1702684712413822976)
+</div>
 
 ### <div align="center">I'm Brandon, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀</div>  
   
