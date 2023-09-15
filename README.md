@@ -2,7 +2,7 @@
 <img src="https://DjyBrandon.github.io/static/brandon.png" align="center" height="" width="" />
 </div>  
 
-<div align="center">
+<div>
   [![Security Status](https://www.murphysec.com/platform3/v31/badge/1702684712413822976.svg)](https://www.murphysec.com/console/report/1702684712376074240/1702684712413822976)
 </div>
 
