@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/60676912?v=4" align="center" style="width: 25%" />
-</div>  
-  
-
 ### <div align="center">I'm Brandon, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
