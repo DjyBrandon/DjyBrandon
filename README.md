@@ -1,22 +1,16 @@
-### <div align="center">I'm Brandon, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
-  
+### <div align="center">I'm Brandon, master of computer science and bachelor of software engineering 👨‍💻 since 2020 🚀</div>
 
-- 🔭 I’m currently studying on [UNNC](https://www.nottingham.edu.cn/en/index.aspx)  
-  
 
-- 🌱 I’m currently learning Golang and LaTeX  
-  
+- 🔭 I’m currently studying on [UNNC](https://www.nottingham.edu.cn/en/index.aspx)
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- 🌱 My research insterest is Spatial Intelligence, Operation Research, Uncertainty Analysis, and Trustworthy AI
 
-<br/>  
+
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=DjyBrandon&&style=flat-square" align="center" />
-</div>  
+</div>
 
 <br />
