@@ -1,7 +1,7 @@
 ### <div align="center">I'm Brandon, master of computer science and bachelor of software engineering 👨‍💻 since 2020 🚀</div>
 
 
-- 🔭 I’m looking for PhD opportunities in Computer Science..
+- 🔭 I’m looking for PhD opportunities in Computer Science.
 
 
 - 🌱 My research interests are Spatial Intelligence, Operations Research, Uncertainty Analysis, and Trustworthy AI.
