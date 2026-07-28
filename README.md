@@ -4,7 +4,7 @@
 - 🔭 I’m looking for PhD opportunities in Computer Science.
 
 
-- 🌱 My research interests are Spatial Intelligence, Operations Research, Uncertainty Analysis, and Trustworthy AI.
+- 🌱 My research interests are Operations Research, Spatial Intelligence, Uncertainty Analysis, and Trustworthy AI.
 
 
 <br/>
