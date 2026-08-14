@@ -1,10 +1,13 @@
-### <div align="center">I'm Brandon, master of computer science and bachelor of software engineering 👨‍💻 since 2020 🚀</div>
+- 🐳 I'm Brandon, master of computer science and bachelor of software engineering 👨‍💻 since 2020 🚀
 
 
 - 🔭 I’m looking for PhD opportunities in Computer Science.
 
 
 - 🌱 My research interests are Operations Research, Spatial Intelligence, Uncertainty Analysis, and Trustworthy AI.
+
+
+- 📮 Please correct my code errors by Email: Brandon_Dong@outlook.com
 
 
 <br/>
